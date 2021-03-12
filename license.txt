@@ -1,0 +1,11 @@
+Model Information:
+* title:	PLane_tooned
+* source:	https://sketchfab.com/3d-models/plane-tooned-dfbca3289fe0499f8b6ff83fdf367c1e
+* author:	AntijnvanderGun (https://sketchfab.com/AntijnvanderGun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PLane_tooned" (https://sketchfab.com/3d-models/plane-tooned-dfbca3289fe0499f8b6ff83fdf367c1e) by AntijnvanderGun (https://sketchfab.com/AntijnvanderGun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
